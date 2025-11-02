@@ -16,7 +16,7 @@ from langchain.chains import create_retrieval_chain
 
 
 # Set environment variable or do this securely in production
-os.environ["GOOGLE_API_KEY"] = "AIzaSyDedYxrt77FBgWPof03oplZ47FKYg6vx0c"
+os.environ["GOOGLE_API_KEY"] = "Enter Your API key"
 import asyncio
 
 try:
