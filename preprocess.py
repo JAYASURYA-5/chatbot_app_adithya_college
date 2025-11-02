@@ -12,7 +12,7 @@ from langchain.docstore.document import Document
 
 
 # SET YOUR API KEY HERE if not using env
-os.environ["GOOGLE_API_KEY"] = "AIzaSyDedYxrt77FBgWPof03oplZ47FKYg6vx0c"
+os.environ["GOOGLE_API_KEY"] = "Enter Your API key "
 
 CHROMA_DIR = "chroma_storage"
 URLS = ["https://en.wikipedia.org/wiki/Adithya_Institute_of_Technology", "https://en.wikipedia.org/wiki/Adithya_Institute_of_Technology#Location", "https://en.wikipedia.org/wiki/Adithya_Institute_of_Technology#Academics", 
